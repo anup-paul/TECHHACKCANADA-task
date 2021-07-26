@@ -10,6 +10,7 @@ import Footer from './Components/Footer/Footer';
 import Movies from './Components/Content/Movies/Movies';
 import Series from './Components/Content/Series/Series';
 import Home from './Components/Home/Home';
+import Login from './Components/Login/Login';
 
 function App() {
   return (
@@ -28,6 +29,9 @@ function App() {
           </Route>
           <Route path="/series" >
             <Series></Series>
+          </Route>
+          <Route path="/login" >
+            <Login></Login>
           </Route>
         </Switch>
         <Footer></Footer>
