@@ -4,7 +4,7 @@ const MovieInfo = (props) => {
 
     return (
         <div>
-            {/* <img src={props.movie.images.url} alt="" /> */}
+            <img style={{height:"100px"}}  src={props.movie.images["Poster Art"].url} alt="" />
             <h2> {props.movie.title} </h2>
             
         </div>

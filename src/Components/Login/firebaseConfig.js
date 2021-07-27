@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyCsTNuiQfmw00ePzz6BjyEiCPGUkmedLUQ",
-    authDomain: "techhackcanada.firebaseapp.com",
-    projectId: "techhackcanada",
-    storageBucket: "techhackcanada.appspot.com",
-    messagingSenderId: "232384483085",
-    appId: "1:232384483085:web:7c79ff6cfdb1e85ba1aa44"
-  };
+  apiKey: "AIzaSyBO2KKTpJyQzLhnJInpaLLwao11lDxzrR8",
+  authDomain: "tecknewproject.firebaseapp.com",
+  projectId: "tecknewproject",
+  storageBucket: "tecknewproject.appspot.com",
+  messagingSenderId: "833598655137",
+  appId: "1:833598655137:web:ce2e81381b39e9afed7ee0"
+};
 
   export default firebaseConfig;
